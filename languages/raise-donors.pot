@@ -1,0 +1,66 @@
+# Copyright (C) 2020 RaiseDonors
+# This file is distributed under the same license as the RaiseDonors plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: RaiseDonors 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/raise-donors\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-01T20:40:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: raise-donors\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "RaiseDonors"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://raisedonors.zendesk.com/hc/en-us/categories/360004594551-Wordpress-Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Easily embed your RaiseDonors donation forms with just a few clicks."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://raisedonors.com/"
+msgstr ""
+
+#: includes/class-raise-donors-elementor-widget.php:14
+#: gutenberg-block/dist/blocks.build.js:1
+#: gutenberg-block/src/block/block.js:68
+msgid "RaiseDonors Form"
+msgstr ""
+
+#: includes/class-raise-donors-elementor-widget.php:29
+msgid "Content"
+msgstr ""
+
+#: includes/class-raise-donors-elementor-widget.php:37
+#: gutenberg-block/dist/blocks.build.js:1
+#: gutenberg-block/src/block/block.js:103
+msgid "Select Donation Page"
+msgstr ""
+
+#: includes/class-raise-donors-elementor-widget.php:49
+#: gutenberg-block/dist/blocks.build.js:1
+#: gutenberg-block/src/block/block.js:143
+msgid "Select Display Style"
+msgstr ""
+
+#: includes/class-raise-donors-elementor-widget.php:53
+#: gutenberg-block/dist/blocks.build.js:1
+#: gutenberg-block/src/block/block.js:150
+msgid "Show Page Content + Donation Form"
+msgstr ""
+
+#: includes/class-raise-donors-elementor-widget.php:54
+#: gutenberg-block/dist/blocks.build.js:1
+#: gutenberg-block/src/block/block.js:151
+msgid "Show Donation Form Only"
+msgstr ""
